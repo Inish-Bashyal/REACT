@@ -21,10 +21,19 @@ export default function SinglePost() {
             <span className="singlePostDate">1 hour ago</span>
         </div>
         <p className="singlePostDesc">
-        Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+        This photo consists of a tree. It is a bright day with beautiful blue sky. There are car parked too around the trees. 
+        So we can assumate that it is a parking lot. Also there is are small houses which I assume can be laboratories of the hospital. 
+        As there is an ambulance too, so it is probably the hospital. This photo consists of a tree. It is a bright day with beautiful blue sky. There are car parked too around the trees. 
+        So we can assumate that it is a parking lot. Also there is are small houses which I assume can be laboratories of the hospital. 
+        As there is an ambulance too, so it is probably the hospital. This photo consists of a tree. It is a bright day with beautiful blue sky. There are car parked too around the trees. 
+        So we can assumate that it is a parking lot. Also there is are small houses which I assume can be laboratories of the hospital. 
+        As there is an ambulance too, so it is probably the hospital. This photo consists of a tree. It is a bright day with beautiful blue sky. There are car parked too around the trees. 
+        So we can assumate that it is a parking lot. Also there is are small houses which I assume can be laboratories of the hospital. 
+        As there is an ambulance too, so it is probably the hospital. This photo consists of a tree. It is a bright day with beautiful blue sky. There are car parked too around the trees. 
+        So we can assumate that it is a parking lot. Also there is are small houses which I assume can be laboratories of the hospital. 
+        As there is an ambulance too, so it is probably the hospital. This photo consists of a tree. It is a bright day with beautiful blue sky. There are car parked too around the trees. 
+        So we can assumate that it is a parking lot. Also there is are small houses which I assume can be laboratories of the hospital. 
+        As there is an ambulance too, so it is probably the hospital.
         </p>
       </div>
     </div>
